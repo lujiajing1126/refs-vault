@@ -9,9 +9,14 @@ usage() {
 
 [ $# -lt 1 ] && usage
 
-# https://doi.org/10.1103/PhysRevC.49.2950
 if [ -n $(command -v -- curl) ]; then
-    curl -L -H 'Accept: application/x-bibtex; charset=utf-8' "$1"
+    if [[ "$1" == http* ]]; then
+        # $1 = https://doi.org/10.1103/PhysRevC.49.2950
+        curl -L -H 'Accept: application/x-bibtex; charset=utf-8' "$1"
+    else
+        # $1 = 10.1103/PhysRevC.49.2950
+        curl -L -H 'Accept: application/x-bibtex; charset=utf-8' "https://doi.org/$1"
+    fi
 else
     echo "curl is required"
     exit -1

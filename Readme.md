@@ -14,6 +14,8 @@
   - [Physical Review C](https://journals.aps.org/prc/)
   - [Astronomy & Astrophysics](https://www.aanda.org/)
   - [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)
+  - [Physics Letters B](https://www.sciencedirect.com/journal/physics-letters-b)
+  - [Few-Body Systems](https://link.springer.com/journal/601)
 
 ## PACS
 
