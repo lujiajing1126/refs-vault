@@ -7,6 +7,7 @@
   - Neutron stars
   - Nuclear matter
   - Many-body theory
+  - Three-body force
 
 ## Related Journals
 
