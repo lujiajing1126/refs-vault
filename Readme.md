@@ -16,6 +16,9 @@
   - [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)
   - [Physics Letters B](https://www.sciencedirect.com/journal/physics-letters-b)
   - [Few-Body Systems](https://link.springer.com/journal/601)
+  - [Physical Review D](https://journals.aps.org/prd/)
+  - [Physics of Particles and Nuclei](https://link.springer.com/journal/11496)
+  - [Physics Reports](https://www.journals.elsevier.com/physics-reports)
 
 ## PACS
 
