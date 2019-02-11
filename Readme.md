@@ -19,6 +19,7 @@
   - [Physical Review D](https://journals.aps.org/prd/)
   - [Physics of Particles and Nuclei](https://link.springer.com/journal/11496)
   - [Physics Reports](https://www.journals.elsevier.com/physics-reports)
+  - [Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X)
 
 ## PACS
 
